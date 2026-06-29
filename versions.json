@@ -1,67 +1,67 @@
 {
     "r_blackmarket": {
-        "latest": "2.0.1",
+        "latest": "2.0.1"
     },
 
     "r_bridge": {
         "repo": "rumaier/r_bridge",
-        "latest": "2.0.8",
+        "latest": "2.0.8"
     },
 
     "r_buddies": {
-        "latest": "2.1.4",
+        "latest": "2.1.4"
     },
 
     "r_communityservice": {
         "repo": "rumaier/r_communityservice",
-        "latest": "3.1.0",
+        "latest": "3.1.0"
     },
 
     "r_drugsales": {
         "repo": "rumaier/r_drugsales",
-        "latest": "3.1.0",
+        "latest": "3.1.0"
     },
 
     "r_energydrinks": {
         "repo": "rumaier/r_energydrinks",
-        "latest": "1.1.0",
+        "latest": "1.1.0"
     },
 
     "r_fraud": {
-        "latest": "2.0.1",
+        "latest": "2.0.1"
     },
 
     "r_killfeed": {
-        "latest": "1.1.0",
+        "latest": "1.1.0"
     },
 
     "r_lottery": {
-        "latest": "2.3.0",
+        "latest": "2.3.0"
     },
 
     "r_moneywash": {
         "repo": "rumaier/r_moneywash",
-        "latest": "1.1.0",
+        "latest": "1.1.0"
     },
 
     "r_notify": {
-        "latest": "1.0.0",
+        "latest": "1.0.0"
     },
 
     "r_prison": {
-        "latest": "2.2.0",
+        "latest": "2.2.0"
     },
 
     "r_storageunits": {
-        "latest": "2.1.1",
+        "latest": "2.1.1"
     },
 
     "r_trapphone": {
-        "latest": "2.1.1",
+        "latest": "2.1.1"
     },
 
     "r_whippets": {
         "repo": "rumaier/r_whippets",
-        "latest": "1.1.1",
+        "latest": "1.1.1"
     }
 }
