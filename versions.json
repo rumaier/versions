@@ -28,7 +28,7 @@
     },
 
     "r_fraud": {
-        "latest": "2.1.1"
+        "latest": "2.1.2"
     },
 
     "r_killfeed": {
@@ -53,7 +53,7 @@
     },
 
     "r_storageunits": {
-        "latest": "2.2.1"
+        "latest": "2.2.2"
     },
 
     "r_trapphone": {
